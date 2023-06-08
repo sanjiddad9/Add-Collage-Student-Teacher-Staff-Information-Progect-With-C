@@ -1,0 +1,3 @@
+G:/CLionProject/All Project/Add.Value.System/cmake-build-debug/CMakeFiles/Add_Value_System.dir
+G:/CLionProject/All Project/Add.Value.System/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/CLionProject/All Project/Add.Value.System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
