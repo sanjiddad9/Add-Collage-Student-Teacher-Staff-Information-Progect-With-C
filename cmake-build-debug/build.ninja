@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_Add_Value_System: phony || CMakeFiles/Ad
 
 build CMakeFiles/Add_Value_System.dir/main.c.obj: C_COMPILER__Add_Value_System_Debug G$:/CLionProject/All$ Project/Add.Value.System/main.c || cmake_object_order_depends_target_Add_Value_System
   DEP_FILE = CMakeFiles\Add_Value_System.dir\main.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
   OBJECT_DIR = CMakeFiles\Add_Value_System.dir
   OBJECT_FILE_DIR = CMakeFiles\Add_Value_System.dir
   TARGET_COMPILE_PDB = CMakeFiles\Add_Value_System.dir\
